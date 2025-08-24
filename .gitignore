@@ -1,0 +1,9 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore build output folders
+bin/
+out/
+
+# Ignore compiled class files
+*.class
